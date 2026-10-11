@@ -6,7 +6,7 @@ These apps are useful for creating a custom/fake Discord Rich Presence for games
 
 **## How to use**
 
-1. Open the `Blank_Apps` directory.
+1. Open the `Discord-Custom-Rich-Presence-main` directory.
    
 2. Go to the `dist` folder.
    
