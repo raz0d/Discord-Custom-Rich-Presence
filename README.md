@@ -57,4 +57,16 @@ You can rename a blank app to something like:
 - Photoshop
 - Any game or software you want
 
+---
+
+## 💬 Questions, Feedback & Suggestions
+
+Have any questions, ideas, or suggestions for improving this project? We'd love to hear from you!
+
+Join our Discord community to ask questions, share feedback, suggest new features, or connect with other members.
+
+**🔗 Join our Discord Server:** https://discord.gg/MWedzwyyNN
+
+Your feedback and contributions are always appreciated. Thank you for checking out this project! ❤️
+
 > **Note:** Keep the blank app running while you want the Rich Presence to remain active.
